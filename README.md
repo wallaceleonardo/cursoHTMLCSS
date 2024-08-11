@@ -27,3 +27,7 @@ https://www.alura.com.br/artigos/guia-de-unidades-no-css
 
 ### Artigo Alura: Markdown: como trabalhar com essa linguagem de markup?
 https://www.alura.com.br/artigos/como-trabalhar-com-markdown
+
+### Site gratuito para hospedagem de site
+https://vercel.com/
+https://vercel.com/new/wallace-leonardo-tolentinos-projects
