@@ -24,3 +24,6 @@ https://developers.google.com/fonts/docs/getting_started?hl=pt-br
 
 ### Artigo Alura: Guia de Unidades no CSS
 https://www.alura.com.br/artigos/guia-de-unidades-no-css
+
+### Artigo Alura: Markdown: como trabalhar com essa linguagem de markup?
+https://www.alura.com.br/artigos/como-trabalhar-com-markdown
