@@ -21,3 +21,6 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ### Começar a usar a API Google Fonts
 https://developers.google.com/fonts/docs/getting_started?hl=pt-br
+
+### Artigo Alura: Guia de Unidades no CSS
+https://www.alura.com.br/artigos/guia-de-unidades-no-css
