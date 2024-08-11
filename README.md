@@ -1,5 +1,8 @@
 ## Repositório do curso de HTML e CSS da plataforma ALURA
 
+### Figma do Projeto
+https://www.figma.com/design/53fjhVZV9Zd4QHswL4XZYP/Portfolio---Curso-4?node-id=0-1&t=UEAzFBt8LuxwDUtf-0
+
 ### Site para estudo das tecnologias
 https://www.w3schools.com/
 
@@ -8,6 +11,7 @@ https://developer.mozilla.org/pt-BR/
 
 ### Site para escolha de cores do projeto
 https://color.adobe.com/pt/create/color-wheel
+https://colorhunt.co/
 
 ### Site para importação de fontes
 https://fonts.google.com/
